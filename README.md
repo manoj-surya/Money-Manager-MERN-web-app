@@ -2,6 +2,8 @@
 Description :
 =>Money Manager is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a convenient way to track your income and expenses, allowing you to effectively manage your budget.
 
+Video description URL: https://youtu.be/MG2KQYKtrfs
+
 # Technology Used
 MongoDB: A NoSQL database used to store user information and transaction data.
 React.js: A JavaScript library used for building the user interface and managing the frontend components.
