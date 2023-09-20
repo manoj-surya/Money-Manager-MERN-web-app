@@ -6,6 +6,10 @@
 
 Money Manager is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a convenient way to track your income and expenses, allowing you to effectively manage your budget.
 
+## Testing credentials:
+- email: abc@email
+- password: 123
+
 Watch the demo video:<a href="https://youtu.be/MG2KQYKtrfs" target="_blank">Demo Video</a>
 
 ## Technology Used
